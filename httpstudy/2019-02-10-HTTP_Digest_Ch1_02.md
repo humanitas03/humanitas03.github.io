@@ -71,3 +71,6 @@ ___
 |빈 문자|32(0x20)|http://www.humanitas03.com/more%20tools.html|
 |% |37(0x25)|http://www.humanitas03.com/100%25satistifaction.html|
 {: .table .table-striped .table-hover}
+
+
+{% include list.liquid all=true %}

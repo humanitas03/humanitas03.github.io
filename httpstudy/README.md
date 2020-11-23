@@ -1,7 +1,5 @@
 ---
-sort: 3
+sort: 2
 ---
 
 # HTTP Concept Study
-
-{% include list.liquid all=true %}
