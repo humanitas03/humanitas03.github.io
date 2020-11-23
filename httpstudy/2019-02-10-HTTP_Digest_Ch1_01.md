@@ -6,7 +6,7 @@ sort: 2
 * O'Relly 사의 『HTTP:The Definitive Guide』를 원서로 하고 있습니다.
 
 
-### Introduction
+## Introduction
 
 
 * 책은 크게 5 Part, 21개 chapter로 이루어져 있습니다.
@@ -29,10 +29,10 @@ sort: 2
 	- 10장 : HTTP/2.0 프로토콜 소개
 
 
-### 1부 HTTP : 웹의 기초
+## 1부 HTTP : 웹의 기초
 
 
-#### 1장 HTTP 개관
+### 1장 HTTP 개관
 
 * 웹 클라이언트 / 리소스
 	- 웹 콘텐츠는 Web 서버에 존재하며 클라이언트는 서버에 HTTP 요청을 보내고 서버는 요청된 데이터를 HTTP 응답으로 돌려준다.![image.png](../images/httpguideimg/http_figure_1-1.png)
