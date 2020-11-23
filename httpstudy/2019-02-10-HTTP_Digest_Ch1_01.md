@@ -28,12 +28,10 @@ sort: 2
 	- 9장 : 웹 로봇, 스파이더, 검색엔진 등-> 웹 전반에 쓰이는 다양한 클라이언트
 	- 10장 : HTTP/2.0 프로토콜 소개
 
----
-___
-
 
 ### 1부 HTTP : 웹의 기초
-___
+
+
 #### 1장 HTTP 개관
 
 * 웹 클라이언트 / 리소스
@@ -92,7 +90,7 @@ ___
 		* 본문 : 'Hi! I'm a message!'
 		* (EX. GET 트랜잭션의 예)![image.png](../images/httpguideimg/http_figure_1-8.png)
 
----
+
 
 * TCP(Transmission Control Protocol)
 	- >**TCP/IP**
@@ -111,7 +109,7 @@ TCP/IP 프로토콜은 다음을 제공합니다.
         5) 웹 브라우저는 서버에 HTTP 요청을 보낸다.
         6) 서버는 웹 브라우저의 HTTP 응답을 돌려준다
         7) 커넥션이 닫히면 웹브라우저는 문서를 보여준다.
----
+
 
 * HTTP 프로토콜 버전
 	- HTTP/1.0
@@ -131,7 +129,6 @@ TCP/IP 프로토콜은 다음을 제공합니다.
 	- 터널 : 단순히 HTTP통신을 전달하기만 하는 특별한 프락시
 	- 에이전트 : 자동화된 HTTP 요청을 만드는 준지능적 웹클라이언트
 
----
-___
+
 
 {% include list.liquid all=true %}
