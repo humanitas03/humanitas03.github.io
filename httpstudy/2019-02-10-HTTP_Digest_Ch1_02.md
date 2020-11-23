@@ -5,10 +5,7 @@ sort: 3
 * 『HTTP 완벽가이드-웹은 어떻게 동작하는가』, 이응준, 정상일 옮김, 인사이트 도서에 대한 요약 정리 포스트입니다.
 * O'Relly 사의 『HTTP:The Definitive Guide』를 원서로 하고 있습니다.
 
-
 ### 1부 HTTP : 웹의 기초
-
-
 
 #### 2장 URL과 리소스
 
@@ -77,4 +74,3 @@ sort: 3
 {: .table .table-striped .table-hover}
 
 
-{% include list.liquid all=true %}

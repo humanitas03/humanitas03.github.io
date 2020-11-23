@@ -131,4 +131,3 @@ TCP/IP 프로토콜은 다음을 제공합니다.
 
 
 
-{% include list.liquid all=true %}
